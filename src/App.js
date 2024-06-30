@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Pog
+          Not Pog
         </a>
       </header>
     </div>
